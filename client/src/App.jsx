@@ -1,6 +1,6 @@
 import { Routes, Route, Link } from 'react-router-dom'
 import Landing from './pages/Landing'
-import AuthPage from './pages/Authpage';
+import AuthPage from './pages/AuthPage';
 import Exchange from './pages/Exchange' // ✅ Import
 import NGOs from './pages/NGOs';
 import Listing  from './pages/Listing'
